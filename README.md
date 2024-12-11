@@ -3,7 +3,7 @@
   <a href="https://buildwithpradeepkumar.vercel.app/" target="_blank">Pradeep kumar</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img1.jpeg" />
 </div>
 
 <br/>
@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="">Request Feature</a>
 </h3>
 
 ## TL;DR
