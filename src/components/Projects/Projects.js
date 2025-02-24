@@ -31,6 +31,16 @@ function Projects() {
               demoLink=""
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="E-Commerce platform"
+              description="Developed a full-stack MERN-based E-commerce website with secure authentication, product management, and seamless user experience. The platform allows users to browse, search, and purchase products while ensuring smooth backend operations."
+              ghLink="https://https://github.com/pradeepkumar6382/Portfolio"
+              demoLink="https://ecommerce-project-u172.vercel.app/"
+            />
+          </Col>
 
         {/*   <Col md={4} className="project-card">
             <ProjectCard
