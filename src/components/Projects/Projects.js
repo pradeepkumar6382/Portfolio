@@ -37,11 +37,20 @@ function Projects() {
               isBlog={false}
               title="E-Commerce platform"
               description="Developed a full-stack MERN-based E-commerce website with secure authentication, product management, and seamless user experience. The platform allows users to browse, search, and purchase products while ensuring smooth backend operations."
-              ghLink="https://https://github.com/pradeepkumar6382/Portfolio"
+              ghLink="https://github.com/pradeepkumar6382/Ecommerce-Project"
               demoLink="https://ecommerce-project-u172.vercel.app/"
             />
           </Col>
-
+         <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="TodoList"
+              description="This is a simple yet powerful To-Do List App built entirely using Redux for state management. Unlike traditional React apps that use local state (useState), this application leverages Redux for global state management, making it highly scalable and efficient."
+              ghLink="https://github.com/pradeepkumar6382/Todolist"
+              demoLink="https://todolist-ecru-xi.vercel.app/"
+            />
+          </Col>
         {/*   <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
