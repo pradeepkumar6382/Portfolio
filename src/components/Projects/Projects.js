@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import Randomquote from "../../Assets/Projects/Randomquote.png";
+import randomquotegenerator from "../../Assets/Projects/randomquotegenerator.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
@@ -19,7 +19,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Randomquote}
+              imgPath={randomquotegenerator}
               isBlog={false}
               title="Random Quote Generator"
               description="I developed a QR code-based attendance system using MERN where employees scan a QR code placed at windmill sites. The system securely logs attendance data in real-time using a backend API, with all records stored in a centralized database"
