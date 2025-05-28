@@ -6,7 +6,7 @@ import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
-import Randomquote from "../../Assets/Projects/suicide.png";
+import Randomquote from "../../Assets/Projects/Randomquote.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
