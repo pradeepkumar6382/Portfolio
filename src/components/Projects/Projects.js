@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Windmill"
+              title="Random Quote Generator"
               description="I developed a QR code-based attendance system using MERN where employees scan a QR code placed at windmill sites. The system securely logs attendance data in real-time using a backend API, with all records stored in a centralized database"
-              ghLink="https://github.com/pradeepkumar6382/windmill"
-              demoLink=""
+              ghLink="https://github.com/pradeepkumar6382/Randomquote"
+              demoLink="https://randomquote-eosin.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
