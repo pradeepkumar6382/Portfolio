@@ -24,7 +24,7 @@ function Projects() {
               imgPath={randomquotegenerator}
               isBlog={false}
               title="Random Quote Generator"
-              description="A beautifully designed Random Quote Generator built with **React.js**, styled using **Tailwind CSS**, and powered by the **API Ninjas Quotes API** Each visit or button click fetches a fresh, inspiring quote with a visually aesthetic background."
+              description="A beautifully designed Random Quote Generator built with React.js, styled using Tailwind CSS, and powered by the API Ninjas Quotes API Each visit or button click fetches a fresh, inspiring quote with a visually aesthetic background."
               ghLink="https://github.com/pradeepkumar6382/Randomquote"
               demoLink="https://randomquote-eosin.vercel.app/"
             />
