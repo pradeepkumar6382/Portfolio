@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import randomquotegenerator from "../../Assets/Projects/randomquotegenerator.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import Ecommercesite from "../../Assets/Projects/Ecommercesite.png";
 
 function Projects() {
   return (
@@ -29,7 +30,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={Ecommercesite}
               isBlog={false}
               title="E-Commerce platform"
               description="Developed a full-stack MERN-based E-commerce website with secure authentication, product management, and seamless user experience. The platform allows users to browse, search, and purchase products while ensuring smooth backend operations."
