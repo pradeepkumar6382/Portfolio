@@ -41,7 +41,7 @@ function Projects() {
           </Col>
          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={Todolist}
               isBlog={false}
               title="TodoList"
               description="This is a simple yet powerful To-Do List App built entirely using Redux for state management. Unlike traditional React apps that use local state (useState), this application leverages Redux for global state management, making it highly scalable and efficient."
