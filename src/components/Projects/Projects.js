@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import randomquotegenerator from "../../Assets/Projects/randomquotegenerator.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import Ecommercesite from "../../Assets/Projects/Ecommercesite.png";
+import Todolist from "../../Assets/Projects/Todolist.png";
 
 function Projects() {
   return (
